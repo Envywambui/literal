@@ -1,6 +1,6 @@
 <?php
 
 
-include_once("profile.html");
+include_once("department.html");
 
 ?>
